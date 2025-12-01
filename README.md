@@ -4,5 +4,5 @@ This repository is designed for Data Analysts, Data Scientists, and Tech Enthusi
 
 
 
-I am currently working on this tutorial step by step. Although I am busy with other commitments, I am putting in time to update each section gradually. My goal is to make this a complete, beginner-friendly SQL learning resource that you can follow at your own pace.
+I am currently working on this lesson step by step. Although I am busy with other commitments, I am putting in time to update each section gradually. My goal is to make this a complete, beginner-friendly SQL learning resource that you can follow at your own pace.
 Please feel free to check back regularly, I will continue releasing new lessons, exercises, and datasets until the full tutorial is complete.
