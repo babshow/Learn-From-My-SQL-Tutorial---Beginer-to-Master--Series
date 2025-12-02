@@ -1,5 +1,5 @@
 A Practical Guide for Aspiring Data Analysts;
-A simplified and practical guide created to help beginner Data Analysts build a strong foundation in SQL. I started this tutorial to support individuals who are new to data analytics and need a clear, hands-on introduction to working with databases and writing SQL queries.
+A simplified and practical guide created to help beginner Data Analysts build a strong foundation in SQL. This lesson is to support individuals who are new to data analytics and need a clear, hands-on introduction to working with databases and writing SQL queries.
 This repository is designed for Data Analysts, Data Scientists, and Tech Enthusiasts who want to understand SQL from the ground up. Whether you're transitioning into a data role or strengthening your existing technical skills, this guide offers easy-to-follow explanations, real-world examples, and practical exercises you can apply immediately.
 
 
